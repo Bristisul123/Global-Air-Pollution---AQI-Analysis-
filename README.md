@@ -1,4 +1,4 @@
-# 🌍 Global Air Pollution Analysis — Power BI
+# 🌍 Global Air Pollution Analysis Dashboard — Power BI
 
 An interactive **air pollution analysis dashboard** built to explore air quality patterns across countries and cities worldwide, evaluating AQI severity, pollutant composition, and regional distribution to support environmental awareness and data-driven insight.
 

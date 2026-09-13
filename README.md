@@ -14,7 +14,7 @@ An interactive **Power BI dashboard** was developed to provide a comprehensive o
 
 ### 📸 Dashboard Preview
 
-![Air Pollution Dashboard]([Air Pollution Dashboard.png](https://github.com/Bristisul123/Global-Air-Pollution---AQI-Analysis-/blob/main/Air%20Pollution%20Dashboard.png))
+![Air Pollution Dashboard](https://github.com/Bristisul123/Global-Air-Pollution---AQI-Analysis-/blob/main/Air%20Pollution%20Dashboard.png?raw=true)
 
 The Power BI dashboard provides an interactive view of key air quality metrics through KPI cards, country rankings, pollutant comparisons, regional distribution, and geographic visualizations.
 
